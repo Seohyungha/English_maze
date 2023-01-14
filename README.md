@@ -1,2 +1,2 @@
-# English_maze
-내가 직접 만든 웹방탈출 게임1
+# aimaze
+ai로 하는 미궁 게임
